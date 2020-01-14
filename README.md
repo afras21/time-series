@@ -1,4 +1,4 @@
-# Fetching data based on (Month, Week, Today)
+# Fetching data based on (Month, Week, Day)
 
 Instead of fetching all the data and displaying we are fetching date based on the above 3 criteria.
 
